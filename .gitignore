@@ -1,5 +1,43 @@
-/target/
-/.idea/
-/.vscode/
+# Target directory
+target/
 *.class
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
 .DS_Store
+
+# Build
+*.jar
+*.war
+*.nar
+*.ear
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite
+
+# IDE config files
+*.iml
+.classpath
+.project
+.settings/
