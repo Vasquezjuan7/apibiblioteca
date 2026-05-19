@@ -20,5 +20,5 @@ public class Prestamo {
     private Date fechaPrestamo;
     private Date fechaDevolucionEsperada;
     private Date fechaDevolucionReal;
-    private String estado; // ACTIVO, DEVUELTO, VENCIDO
+    private String estado;
 }

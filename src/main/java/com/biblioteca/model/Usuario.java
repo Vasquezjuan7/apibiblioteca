@@ -15,17 +15,11 @@ public class Usuario {
     private String id;
     private String nombre;
     private String correo;
-    private String tipoUsuario; // ESTUDIANTE, PROFESOR, BIBLIOTECARIO
-
-    // Atributos Estudiante
+    private String tipoUsuario;
     private String codigoEstudiante;
     private String programa;
-
-    // Atributos Profesor
     private String codigoProfesor;
     private String facultad;
-
-    // Atributos Bibliotecario
     private String codigoEmpleado;
     private String turno;
 }

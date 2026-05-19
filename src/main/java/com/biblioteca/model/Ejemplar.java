@@ -15,6 +15,6 @@ public class Ejemplar {
     private String id;
     private String libroId;
     private String codigoEjemplar;
-    private String estado; // DISPONIBLE, PRESTADO, MANTENIMIENTO
+    private String estado;
     private String ubicacion;
 }
