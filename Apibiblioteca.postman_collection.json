@@ -1,0 +1,51 @@
+{
+  "info": {
+    "_postman_id": "40c7a4c2-5ea9-4292-bf93-a366bd6d84c7",
+    "name": "Apibiblioteca",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "55013254",
+    "_collection_link": "https://go.postman.co/collection/55013254-40c7a4c2-5ea9-4292-bf93-a366bd6d84c7?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Usuario",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Libro",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Ejemplar",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Prestamo",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "/Api/Ejemplares/6a0cd5aa53c23b0147dec525",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
